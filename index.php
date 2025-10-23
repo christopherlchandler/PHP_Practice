@@ -14,9 +14,8 @@ $apple = new Fruit();
 $apple->set_name('Apple');
 
 echo $apple->get_name();
-/// test
+// testing 123
 ?>
 </body>
 </html>
-</body>
-</html>
+
